@@ -1,8 +1,22 @@
 {
-  "name": "xmlparser",
+  "name": "gtav-tattoo-extractor",
   "version": "1.0.0",
   "main": "app.js",
   "license": "MIT",
+  "author": "Stacked",
+  "description": "A handy GTA V tattoo metadata extractor",
+  "homepage": "https://github.com/Stacced/gtav-tattoo-extractor",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Stacced/gtav-tattoo-extractor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Stacced/"
+
+  },
+  "engines": {
+    "node": ">=8"
+  },
   "scripts": {
 	"start": "node app.js"
   },
